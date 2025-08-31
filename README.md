@@ -38,7 +38,7 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons#icons-list">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,nextjs,vue,nuxtjs,redux,tailwindcss,sass,bootstrap,vite,framer&theme=dark&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,nextjs,vue,nuxtjs,redux,tailwindcss,sass,bootstrap,vite,framer,chartjs&theme=dark&titles=true"
       alt="Frontend"
     />
   </a>
@@ -48,7 +48,7 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons#icons-list">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,python,fastapi,postman,chatgpt&theme=dark&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=api,nodejs,expressjs,axios,authjs,jwt,python,fastapi,postman,json,chatgpt&theme=dark&titles=true"
       alt="Backend and APIs"
     />
   </a>
@@ -58,7 +58,7 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons#icons-list">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,prisma,redis&theme=dark&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,mongoose,oracle,prisma,redis,pandas&theme=dark&titles=true"
       alt="Data and ORM"
     />
   </a>
@@ -78,7 +78,7 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 <p align="center">
   <a href="https://github.com/LelouchFR/skill-icons#icons-list">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,s3,cloudfront,docker,vercel,railway,netlify,firebase,git,github,githubactions,bitbucket,vscode,eslint,prettier,figma,googleanalytics,npm,yarn,markdown&theme=dark&titles=true"
+      src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,s3,cloudfront,ec2,docker,vercel,railway,netlify,firebase,git,github,githubactions,githubpages,bitbucket,vscode,eslint,prettier,figma,canva,googleanalytics,npm,yarn,markdown,lighthouse&theme=dark&titles=true"
       alt="DevOps and Tooling"
     />
   </a>
