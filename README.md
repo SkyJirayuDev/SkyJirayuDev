@@ -13,22 +13,22 @@ I design, build, test, release, and operate web software end to end. My work emp
 
 ---
 
-## About me
+## About me 👤
 
 Pragmatic full-stack engineer with a structured approach from requirements to operations. I prioritise readable architecture, useful tests, and documentation that helps others run and evolve the system. Pinned repositories show selected work.
 
 ---
 
-## How I build software
+## How I build software 🧭
 
-- Plan - translate requirements into user stories with acceptance criteria and a clear definition of done
-- Design - create system diagrams and data models, define API contracts and validation schemas
-- Build - develop on feature branches with meaningful names, keep code readable with focused comments
-- Test - implement unit, integration, and end to end tests tied to critical paths
-- Review - open PRs with checklists and impact notes, enforce formatting, linting, and test gates
-- Release - automate CI and CD pipelines, ship in small batches with rollback awareness
-- Operate - instrument logs, metrics, and health checks, set alerts, monitor performance and errors
-- Improve - run short retros, track tech debt, and address it iteratively
+- 📋 Plan - translate requirements into user stories with acceptance criteria and a clear definition of done
+- 🧱 Design - create system diagrams and data models, define API contracts and validation schemas
+- 🛠️ Build - develop on feature branches with meaningful names, keep code readable with focused comments
+- 🧪 Test - implement unit, integration, and end to end tests tied to critical paths
+- 🔍 Review - open PRs with checklists and impact notes, enforce formatting, linting, and test gates
+- 🚀 Release - automate CI and CD pipelines, ship in small batches with rollback awareness
+- 🩺 Operate - instrument logs, metrics, and health checks, set alerts, monitor performance and errors
+- ♻️ Improve - run short retros, track tech debt, and address it iteratively
 
 ---
 
@@ -86,12 +86,12 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 
 ---
 
-## Credentials
+## Credentials 🎓
 
 **Professional Certificates**
 - Meta Full-Stack Engineer Certificate (Meta Front-End Developer and Meta Back-End Developer Professional Certificates)
 
-**Specializations Certificates**
+**Specialisations**
 - Responsive Website Development and Design (University of London), User Experience Research and Design (University of Michigan), Software Development Lifecycle (University of Minnesota), HTML, CSS, and JavaScript for Web Developers (Johns Hopkins University), Advanced JavaScript (Scrimba)
 
 **Other**
@@ -99,7 +99,7 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 
 ---
 
-## Contact
+## Contact 📫
 
 - Email: **skyjirayusaisuwan@gmail.com**
 - LinkedIn: **linkedin.com/in/skyjirayu**
