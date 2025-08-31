@@ -32,16 +32,6 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 
 ---
 
-## Engineering principles
-
-- Maintainability first
-- Strong typing and validation by default
-- Small, frequent releases
-- Observability as a core feature
-- Concise, practical documentation
-
----
-
 ## Tech I use often
 
 <p align="center">Frontend</p>
@@ -73,9 +63,14 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 
 ## Credentials
 
-- Meta Full-Stack Developer Specialisation
-- Oracle Cloud Infrastructure Foundations
-- Agile with Atlassian Jira
+**Professional Certificates**
+- Meta Full-Stack Engineer Certificate (Meta Front-End Developer and Meta Back-End Developer Professional Certificates)
+
+**Specializations Certificates**
+- Responsive Website Development and Design (University of London), User Experience Research and Design (University of Michigan), Software Development Lifecycle (University of Minnesota), HTML, CSS, and JavaScript for Web Developers (Johns Hopkins University), Advanced JavaScript (Scrimba)
+
+**Other**
+- Oracle Cloud Infrastructure Foundations, Agile with Atlassian Jira, Algorithmic Toolbox and Data Structures (UC San Diego), Datacom Software Development Simulation (Forage)
 
 ---
 
