@@ -36,27 +36,52 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 
 <p align="center">Frontend</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,redux,bootstrap,sass,tailwind&perline=12" alt="Frontend" />
+  <a href="https://github.com/LelouchFR/skill-icons#icons-list">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,nextjs,vue,nuxtjs,redux,tailwindcss,sass,bootstrap,vite,framer&theme=dark&titles=true"
+      alt="Frontend"
+    />
+  </a>
 </p>
 
 <p align="center">Backend and APIs</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,postman&perline=12" alt="Backend and APIs" />
+  <a href="https://github.com/LelouchFR/skill-icons#icons-list">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,python,fastapi,postman,chatgpt&theme=dark&titles=true"
+      alt="Backend and APIs"
+    />
+  </a>
 </p>
 
 <p align="center">Data and ORM</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&perline=12" alt="Data and ORM" />
+  <a href="https://github.com/LelouchFR/skill-icons#icons-list">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,prisma,redis&theme=dark&titles=true"
+      alt="Data and ORM"
+    />
+  </a>
 </p>
 
 <p align="center">Testing and Quality</p>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=jest,vitest&perline=12" alt="Testing and Quality" />
+  <a href="https://github.com/LelouchFR/skill-icons#icons-list">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=jest,vitest,playwright,testinglibrary&theme=dark&titles=true"
+      alt="Testing and Quality"
+    />
+  </a>
 </p>
 
 <p align="center">DevOps and Tooling</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel,netlify,firebase,git,github,githubactions,bitbucket,vscode,md,figma,npm,yarn,vite&perline=13" alt="DevOps and Tooling" />
+  <a href="https://github.com/LelouchFR/skill-icons#icons-list">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,gcp,s3,cloudfront,docker,vercel,railway,netlify,firebase,git,github,githubactions,bitbucket,vscode,eslint,prettier,figma,googleanalytics,npm,yarn,markdown&theme=dark&titles=true"
+      alt="DevOps and Tooling"
+    />
+  </a>
 </p>
 
 ---
