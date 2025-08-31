@@ -44,34 +44,29 @@ Pragmatic full-stack engineer with a structured approach from requirements to op
 
 ## Tech I use often
 
-### Frontend
+<p align="center">Frontend</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vue,nuxtjs,sass,bootstrap&perline=12" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,redux,bootstrap,sass,tailwind&perline=12" alt="Frontend" />
 </p>
 
-### Backend and APIs
+<p align="center">Backend and APIs</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postman,openai&perline=12" alt="Backend and APIs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi,postman&perline=12" alt="Backend and APIs" />
 </p>
 
-### Data and ORM
+<p align="center">Data and ORM</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&perline=12" alt="Data and ORM" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma&perline=12" alt="Data and ORM" />
 </p>
 
-### Testing and Quality
+<p align="center">Testing and Quality</p>
 <p align="center">
-  <span style="display:inline-flex;align-items:center;gap:8px;">
     <img src="https://skillicons.dev/icons?i=jest,vitest&perline=12" alt="Testing and Quality" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg"
-         alt="Playwright" height="40"
-         style="background:#0b1220;border-radius:8px;padding:6px" />
-  </span>
 </p>
 
-### DevOps and Tooling
+<p align="center">DevOps and Tooling</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,bitbucket,docker,aws,vercel,netlify,railway,vscode,eslint,prettier,figma&perline=13" alt="DevOps and Tooling" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,vercel,netlify,firebase,git,github,githubactions,bitbucket,vscode,md,figma,npm,yarn,vite&perline=13" alt="DevOps and Tooling" />
 </p>
 
 ---
